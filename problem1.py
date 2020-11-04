@@ -140,6 +140,7 @@ if(re==-1):
     print("not")
 else:
     print(re)
+    print("Thank You!!")
 '''
 
 
